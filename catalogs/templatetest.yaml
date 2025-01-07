@@ -3,11 +3,11 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: rhdhdemo1
-  title: RHDH Test Scaffold template from Backstage
-  description: scaffolder v1beta3 template demo
+  name: python-service
+  title: RHDH Python Service
+  description: scaffolder python service demo
 spec:
-  owner: backstage/techdocs-core
+  owner: backstage/kotelkotel
   type: service
 
   # these are the steps which are rendered in the frontend with the form input
